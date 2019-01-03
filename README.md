@@ -6,6 +6,6 @@ RSA is a public-key cryptosystem named with the initials of its creators, Rivest
 With special precautions and very large numbers (2048 bit / 617 digits or larger), the process can be very secure and unbreakable by brute-force within a human's lifetime, using the current technologies.
 
 ### How good is this machine?
-This machine is a simple example of RSA implementation, and (very likely) does not have the most optimized algorithms of encryption. While it does capture all the general steps of RSA encryption, it should not be compared with a commercially used RSA encryptor.
+This machine is a simple example of RSA implementation, and (possibly) does not have the most optimized algorithms of encryption. While it does capture all the general steps of RSA encryption, it should not be compared with a commercially used RSA encryptor.
 
 
